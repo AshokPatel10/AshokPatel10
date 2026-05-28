@@ -1,9 +1,22 @@
 # Hi, I'm Ashok Patel 👋
-## Data Analytics Enthusiast | SQL | Power BI | Python | PostgreSQL
+## Data Analytics | SQL | Power BI | Python | PostgreSQL
 I am passionate about transforming raw data into actionable business insights through analytics, visualization, and business intelligence tools.
 
 *****
-#### Profile links -
+## 🔧 Skills & Tools
+- SQL
+- PostgreSQL
+- Power BI
+- Python
+- Pandas
+- NumPy
+- DAX
+- Data Visualization
+- Business Intelligence
+
+## 📊 Featured Project
+Retail Customer Insights & Sales Analytics
+- Interactive analytics dashboard built using Python, PostgreSQL, SQL, and Power BI to analyze customer behavior, sales trends, loyalty insights, and product performance.
 <div align="center"><h3><a target="_blank" href="mailto:Ashokpatel998256@gmail.com">📧 Ashokpatel998256@gmail.com </a></h3>
  &emsp;
  &emsp;<a href="https://www.hackerrank.com/profile/ashokpatel998256" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZRzJu9pk07oFysBHWiABqNS2uokzLfYzc2w&s" height="35px" width="100px"></img></a> 
