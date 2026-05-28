@@ -1,4 +1,6 @@
-I'm the learner
+# Hi, I'm Ashok Patel 👋
+## Data Analytics Enthusiast | SQL | Power BI | Python | PostgreSQL
+I am passionate about transforming raw data into actionable business insights through analytics, visualization, and business intelligence tools.
 
 *****
 #### Profile links -
