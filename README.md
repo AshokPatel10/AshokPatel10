@@ -25,9 +25,9 @@ Retail Customer Insights & Sales Analytics
 - Business Analytics
 
 ## 📫 Connect With Me
-📧 Email: Ashokpatel998256@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/ashok-kumar10/
-💻 GitHub: https://github.com/AshokPatel10
+<📧 Email: Ashokpatel998256@gmail.com>
+<🔗 LinkedIn: https://www.linkedin.com/in/ashok-kumar10/>
+<💻 GitHub: https://github.com/AshokPatel10>
 
 <div align="center"><h3><a target="_blank" href="mailto:Ashokpatel998256@gmail.com">📧 Ashokpatel998256@gmail.com </a></h3>
  &emsp;
