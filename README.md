@@ -24,6 +24,11 @@ Retail Customer Insights & Sales Analytics
 - Data Storytelling
 - Business Analytics
 
+## 📫 Connect With Me
+📧 Email: Ashokpatel998256@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/ashok-kumar10/
+💻 GitHub: https://github.com/AshokPatel10
+
 <div align="center"><h3><a target="_blank" href="mailto:Ashokpatel998256@gmail.com">📧 Ashokpatel998256@gmail.com </a></h3>
  &emsp;
  &emsp;<a href="https://www.hackerrank.com/profile/ashokpatel998256" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZRzJu9pk07oFysBHWiABqNS2uokzLfYzc2w&s" height="35px" width="100px"></img></a> 
