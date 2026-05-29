@@ -35,18 +35,8 @@ Retail Customer Insights & Sales Analytics
    
  ## 👨‍💻 About me
 >I graduated from **Nitte Meenakshi Institute of Technology , Bengaluru (India)** . in pursuit of a Bachelor's of Engineering in Electronics and Communication Engineering. (2022 Passout Batch)
-
-
->Self taught programmer and willing to programming professionally
-
-
->I'm From Rajasthan
    
   </details>
-  
- 
- <details>
-<summary>SHOW Skills </summary>
 -----
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id=AshokPatel10.AshokPatel10)
