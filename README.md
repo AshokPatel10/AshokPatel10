@@ -45,8 +45,6 @@ Retail Customer Insights & Sales Analytics
 
   ## [Check out my all repos](https://github.com/AshokPatel10?tab=repositories)
   *****
-  <details>
- <summary>GitHub Stats</summary>
   ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/github-stats/?username=AshokPatel10&layout=compact&theme=merko)
      
