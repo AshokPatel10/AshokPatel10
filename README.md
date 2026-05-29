@@ -48,4 +48,3 @@ Retail Customer Insights & Sales Analytics
   <details>
  <summary>GitHub Stats</summary>
    
- ![Ashok's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshokPatel10&theme=merko&show_icons=true) &emsp;&emsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshokPatel10&layout=compact)
