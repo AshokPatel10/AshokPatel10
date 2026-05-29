@@ -48,6 +48,7 @@ Retail Customer Insights & Sales Analytics
   <details>
  <summary>GitHub Stats</summary>
   ## 📈 GitHub Stats
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshokPatel10&show_icons=true&theme=tokyonight)
+     
   ## 💻 Top Languages
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshokPatel10&layout=compact&theme=merko)
